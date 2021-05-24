@@ -2,8 +2,8 @@ Readme file
 
 CS-4263-001-Spring-2021-Deep Learning
 
+THIS IS INITIALLY MEANT TO BE RUN ON GOOGLECOLLAB
 How to run:
-THIS IS MEANT TO BE RUN ON GOOGLECOLLAB
 
 Have the Musical_Genre_Deep_Learner.ipynb and the Data_Images folder
 in one place. If you are running this is a Shared Drive...
